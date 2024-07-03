@@ -1,3 +1,5 @@
+#Social-Media-App
+
 -   🌟 Tech stack: MERN + Socket.io + Chakra UI
 -   🎃 Authentication & Authorization with JWT
 -   📝 Create Post
