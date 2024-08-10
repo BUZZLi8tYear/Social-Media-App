@@ -16,25 +16,7 @@
 -   👀 Seen/Unseen Status for Messages
 -   🔊 Notification sounds
 
-### Setup .env file
+## Preview Photos :
+# Login Page
+![image](https://github.com/user-attachments/assets/59a968ff-cbc5-4cc1-83b9-10d0c6b7521c)
 
-```js
-PORT=...
-MONGO_URI=...
-JWT_SECRET=...
-CLOUDINARY_CLOUD_NAME=...
-CLOUDINARY_API_KEY=...
-CLOUDINARY_API_SECRET=...
-```
-
-### Build the app
-
-```shell
-npm run build
-```
-
-### Start the app
-
-```shell
-npm start
-```
